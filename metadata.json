@@ -1,0 +1,7 @@
+{
+  "name": "Layertron  v4",
+  "description": "A web application for orchestrating and generating creative prompts for image generation, utilizing node-based editing and AI assistance.",
+  "requestFramePermissions": [],
+  "prompt": "",
+  "majorCapabilities": []
+}
